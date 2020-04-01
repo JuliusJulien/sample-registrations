@@ -1,0 +1,32 @@
+h1{ font-size: 70px ;
+    text-align: left;
+    margin-bottom:50px ;
+    color: rgb(30, 41, 49);
+ }
+
+
+
+p{  margin-left: 300px;
+  font-size: 20px; 
+  margin-top: -10px ;
+}
+
+img{ width:80px;}
+
+input{ font-size: 25px; }
+
+#in{margin-left: 430px;
+    font-size: 20px;}
+
+#on{margin-left: 300px;
+    font-size: 10.2px;
+    color:rgb(255, 255, 255) ;
+    margin-top: -10px;
+} 
+body{ 
+    background-image: url("../img/bg.jpg");
+    background-position: fill;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position-y: -100px; 
+}
